@@ -47,3 +47,30 @@ body{
 .needFree{
     background-color: #6610f2;
 }
+.conico {
+    background-color: #6610f2;
+}
+.ab-social-icons{
+    
+    position: fixed;
+    top: 50%;
+    right: 0px;
+    transform: translateY(-50%);
+}
+.ab-social-icons a{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50px;
+    padding: 0px;
+    margin: 0px;
+    line-height: 0px;
+    background-color: #ffffff;
+    border: 1px solid #1a1919;
+}
+.ab-social-icons i{
+    text-align: center;
+    font-size: 20px;
+    color: #0f1011;
+}
